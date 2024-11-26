@@ -1,2 +1,2 @@
-# myFirstLLM   https://github.com/mrggmrgg/myFirstLLM
+# myFirstLLM 
 https://github.com/InternLM/Tutorial
