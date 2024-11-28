@@ -1,5 +1,3 @@
-# myFirstLLM 
-https://github.com/InternLM/Tutorial
 
 项目信息
 项目ID:2696
